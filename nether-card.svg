@@ -1,38 +1,58 @@
-<svg viewBox="0 0 1000 170" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <!-- 1. TU NUEVA IMAGEN DE FONDO EN BASE64 -->
-  <image width="1000" height="170" preserveAspectRatio="xMidYMid slice" xlink:href="data:image/jpeg;base64,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" />
+<svg viewBox="0 0 1000 240" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- 1. TU IMAGEN DE FONDO LIMPIA DEL NETHER EN BASE64 -->
+  <image width="1000" height="240" preserveAspectRatio="xMidYMid slice" xlink:href="data:image/jpeg;base64,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" />
 
-  <!-- 2. Capa oscura para legibilidad -->
-  <rect x="0" y="0" width="1000" height="170" fill="rgba(0, 0, 0, 0.35)" />
+  <!-- 2. Capa oscura semitransparente para que el inventario resalte bien -->
+  <rect x="0" y="0" width="1000" height="240" fill="rgba(0, 0, 0, 0.45)" />
 
-  <!-- 3. ESTILOS -->
+  <!-- 3. ESTILOS DE LA INTERFAZ -->
   <style>
-    .titulo { font: bold 20px 'Courier New', monospace; fill: #ffffff; text-anchor: middle; filter: drop-shadow(2px 2px 0px #000); }
-    .subtitulo { font: bold 12px 'Courier New', monospace; fill: #ffaa00; text-anchor: middle; filter: drop-shadow(1px 1px 0px #000); }
-    .caja { fill: rgba(35, 12, 12, 0.85); stroke: #ff5500; stroke-width: 2.5; }
-    .texto-caja { font: bold 11px 'Courier New', monospace; fill: #ffffff; text-anchor: middle; }
-    .skill-tag { font: bold 11px 'Courier New', monospace; fill: #ffff55; text-anchor: middle; filter: drop-shadow(1px 1px 0px #000); }
+    .mc-title { font: bold 13px 'Courier New', monospace; fill: #ffffff; text-anchor: middle; }
+    .slot-bg { fill: #8b8b8b; stroke: #373737; stroke-width: 3; }
+    .slot-highlight { fill: #8b8b8b; stroke: #fff; stroke-width: 3; }
   </style>
 
-  <!-- 4. TEXTOS Y CAJAS ENFRENTE -->
-  <text x="500" y="30" class="titulo">🔥 INVENTARIO DE HERRAMIENTAS Y PROYECTOS 🔥</text>
-  <text x="500" y="48" class="subtitulo">[ ReezquiuT | Desarrollador &amp; Creador de Mundos ]</text>
+  <!-- 4. VENTANA DE INVENTARIO ESTILO MINECRAFT (CENTRADA) -->
+  <!-- Fondo principal de la GUI (Gris clásico de inventario) -->
+  <rect x="290" y="30" width="420" height="175" fill="#c6c6c6" stroke="#000000" stroke-width="4" />
+  <!-- Bordes 3D interiores de la ventana -->
+  <rect x="294" y="34" width="412" height="4" fill="#ffffff" />
+  <rect x="294" y="34" width="4" height="167" fill="#ffffff" />
+  <rect x="294" y="197" width="412" height="4" fill="#555555" />
+  <rect x="702" y="34" width="4" height="167" fill="#555555" />
 
-  <!-- Caja 1 -->
-  <rect x="50" y="62" width="280" height="90" rx="4" class="caja" />
-  <text x="190" y="86" class="subtitulo">🏡 BASE ACTUAL</text>
-  <text x="190" y="112" class="texto-caja">Trabajando en:</text>
-  <text x="190" y="134" class="skill-tag">[Nombre de tu Proyecto]</text>
+  <!-- Título del Inventario -->
+  <text x="500" y="58" class="mc-title" fill="#3f3f3f">Inventario de Habilidades</text>
 
-  <!-- Caja 2 -->
-  <rect x="360" y="62" width="280" height="90" rx="4" class="caja" />
-  <text x="500" y="86" class="subtitulo">⚔️ MIS ARMAS (STACK)</text>
-  <text x="500" y="112" class="skill-tag">JS • TS • React • Node</text>
-  <text x="500" y="134" class="skill-tag">Python • Git • HTML/CSS</text>
+  <!-- ================= CASILLAS (SLOTS) ================= -->
+  <!-- Slot 1: HTML -->
+  <g transform="translate(330, 80)">
+    <rect width="64" height="64" class="slot-bg" />
+    <rect x="2" y="2" width="60" height="60" fill="none" stroke="#fff" stroke-opacity="0.2" stroke-width="2" />
+    <image href="https://skillicons.dev/icons?i=html" x="12" y="12" width="40" height="40" />
+  </g>
 
-  <!-- Caja 3 -->
-  <rect x="670" y="62" width="280" height="90" rx="4" class="caja" />
-  <text x="810" y="86" class="subtitulo">📚 ENCANTAMIENTOS</text>
-  <text x="810" y="112" class="texto-caja">Aprendiendo ahora:</text>
-  <text x="810" y="134" class="skill-tag">[Lo que estudias]</text>
+  <!-- Slot 2: CSS -->
+  <g transform="translate(410, 80)">
+    <rect width="64" height="64" class="slot-bg" />
+    <rect x="2" y="2" width="60" height="60" fill="none" stroke="#fff" stroke-opacity="0.2" stroke-width="2" />
+    <image href="https://skillicons.dev/icons?i=css" x="12" y="12" width="40" height="40" />
+  </g>
+
+  <!-- Slot 3: React -->
+  <g transform="translate(490, 80)">
+    <rect width="64" height="64" class="slot-bg" />
+    <rect x="2" y="2" width="60" height="60" fill="none" stroke="#fff" stroke-opacity="0.2" stroke-width="2" />
+    <image href="https://skillicons.dev/icons?i=react" x="12" y="12" width="40" height="40" />
+  </g>
+
+  <!-- Slot 4: Tailwind -->
+  <g transform="translate(570, 80)">
+    <rect width="64" height="64" class="slot-bg" />
+    <rect x="2" y="2" width="60" height="60" fill="none" stroke="#fff" stroke-opacity="0.2" stroke-width="2" />
+    <image href="https://skillicons.dev/icons?i=tailwind" x="12" y="12" width="40" height="40" />
+  </g>
+
+  <!-- Texto inferior decorativo estilo Minecraft -->
+  <text x="500" y="172" class="mc-title" font-size="10" fill="#555555">ReezquiuT's Build</text>
 </svg>
