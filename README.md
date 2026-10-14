@@ -1,7 +1,7 @@
 <!-- 🌳 PARTE 1: THE OVERWORLD -->
-<img src="fila-1-columna-1.jpg" width="100%" alt="Overworld" />
 
-<h1 align="center">⛏️ ¡Hola! Soy [Tu Nombre]</h1>
+<h1 align="center">⛏️ ¡Hola! Soy [Tu Nombre]</h1><img width="3168" height="448" alt="fila-1-columna-1" src="https://github.com/user-attachments/assets/f73e09b3-266a-46ce-9a4d-878e6f3c7685" />
+
 <p align="center"><b>[Tu Rol: ej. Desarrollador Full Stack | Creador de mundos con código]</b></p>
 
 - 🏡 **Base actual (Trabajando en):** [Nombre de tu proyecto]
