@@ -1,5 +1,5 @@
 <!-- 🌳 PARTE 1: THE OVERWORLD -->
-<img src=".fila-1-columna-1.jpg" width="100%" alt="Overworld" />
+<img src="fila-1-columna-1.jpg" width="100%" alt="Overworld" />
 
 <h1 align="center">⛏️ ¡Hola! Soy [Tu Nombre]</h1>
 <p align="center"><b>[Tu Rol: ej. Desarrollador Full Stack | Creador de mundos con código]</b></p>
