@@ -1,1 +1,1 @@
-<img src="./nether-card.svg" width="100%" alt="Nether Banner" />
+<img src="./nether-card.svg" width="100%" alt="Minecraft Banner" />
