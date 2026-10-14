@@ -27,7 +27,8 @@
 ---
 
 <!-- 🐉 PARTE 3: THE END -->
-<img src="./end.jpg" width="100%" alt="The End" />
+<img width="3168" height="448" alt="fila-3-columna-1" src="https://github.com/user-attachments/assets/c7599ed0-11f7-49a4-8835-e7d1d77a624a" />
+
 
 <h2 align="center">🐉 El Final del Viaje — ¡Conectemos!</h2>
 
