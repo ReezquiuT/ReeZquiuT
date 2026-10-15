@@ -1,3 +1,4 @@
+<!-- ================= 🌳 ZONA 1: THE OVERWORLD (Con texto integrado) ================= -->
 <svg viewBox="0 0 1000 200" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <image width="1000" height="200" preserveAspectRatio="xMidYMid slice" xlink:href="https://github.com/user-attachments/assets/6f79ab9c-a91f-4d69-b35d-2b96279ff1da" />
   
@@ -20,6 +21,10 @@
   <rect x="510" y="115" width="240" height="50" class="caja" />
   <text x="630" y="146" class="texto-caja">📚 Estudiando: [Tema]</text>
 </svg>
+
+<br/>
+
+<!-- ================= 🔥 ZONA 2: THE NETHER (Con Stack integrado) ================= -->
 <svg viewBox="0 0 1000 180" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <image width="1000" height="180" preserveAspectRatio="xMidYMid slice" xlink:href="https://github.com/user-attachments/assets/8a46fdc7-a5f0-400c-94b2-5fa35552d0a5" />
   
@@ -36,6 +41,10 @@
   <rect x="200" y="65" width="600" height="70" class="skill-box" />
   <text x="500" y="105" class="skill-text">HTML • CSS • React • Tailwind • JS • TS • Git</text>
 </svg>
+
+<br/>
+
+<!-- ================= 🐉 ZONA 3: THE END (Con Redes integradas) ================= -->
 <svg viewBox="0 0 1000 160" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <image width="1000" height="160" preserveAspectRatio="xMidYMid slice" xlink:href="https://github.com/user-attachments/assets/9dfd23ca-e5e1-4dff-9bcb-c06d33906241" />
   
@@ -47,3 +56,8 @@
 
   <text x="500" y="50" class="end-title">🐉 ¡EL FINAL DEL VIAJE — ¡CONECTEMOS!</text>
 </svg>
+
+<p align="center">
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Correo-Enviar_Mensaje-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
