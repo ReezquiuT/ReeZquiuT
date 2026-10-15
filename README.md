@@ -15,7 +15,7 @@
 
 <!-- ================= 🔥 ZONA 2: THE NETHER (Transición al Abismo) ================= -->
 <p align="center">
-  <img src="./fila-2-columna-1_4.jpg" width="100%" alt="The Nether" />
+  <img width="3168" height="448" alt="fila-2-columna-1" src="https://github.com/user-attachments/assets/01b65330-2b1f-4fd5-a6aa-933f7896e3bd" />
 </p>
 
 <h2 align="center">🔥 Inventario de Habilidades y Estadísticas</h2>
@@ -33,7 +33,7 @@
 
 <!-- ================= 🐉 ZONA 3: THE END (El Final del Viaje) ================= -->
 <p align="center">
-  <img src="./fila-3-columna-1.jpg" width="100%" alt="The End" />
+  <img width="3168" height="448" alt="fila-3-columna-1" src="https://github.com/user-attachments/assets/c33263f0-6fb0-4539-b990-18038ddeed8b" />
 </p>
 
 <h2 align="center">🐉 ¡Conectemos en el Servidor!</h2>
