@@ -1,9 +1,6 @@
-
 <!-- ================= 🌳 ZONA 1: THE OVERWORLD ================= -->
 <p align="center">
-  <img width="3168" height="448" alt="fila-3-columna-1" src="https://github.com/user-attachments/assets/9dfd23ca-e5e1-4dff-9bcb-c06d33906241" />
-<img width="3168" height="448" alt="fila-2-columna-1" src="https://github.com/user-attachments/assets/8a46fdc7-a5f0-400c-94b2-5fa35552d0a5" />
-<img width="3168" height="448" alt="fila-1-columna-1" src="https://github.com/user-attachments/assets/6f79ab9c-a91f-4d69-b35d-2b96279ff1da" />
+  <img width="100%" alt="Overworld" src="https://github.com/user-attachments/assets/6f79ab9c-a91f-4d69-b35d-2b96279ff1da" />
 </p>
 
 <h1 align="center">⛏️ ¡Hola! Soy ReezquiuT</h1>
