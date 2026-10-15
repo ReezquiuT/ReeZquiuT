@@ -21,7 +21,7 @@ Aquí tienes un desglose detallado de mis herramientas y tecnologías de desarro
 | :--- | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend" height="28" /> |  Intermedio-Avanzado |
 | **Backend &amp; Langs** | <img src="https://skillicons.dev/icons?i=js,ts" alt="Languages" height="28" /> |  Intermedio-Avanzado |
-| **Control de Versiones** | <img src="https://skillicons.dev/icons?i=git,github" alt="Git" height="28" /> |  Profesional |
+| **Control de Versiones** | <img src="https://skillicons.dev/icons?i=git,github" alt="Git" height="28" /> | Intermedio-Avanzado |
 | **Entorno de Trabajo** | <img src="https://skillicons.dev/icons?i=vscode" alt="Tools" height="28" /> |  Diario |
 
 ---
