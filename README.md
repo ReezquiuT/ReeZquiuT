@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm ReezquiuT</h1>
-<p align="center"><b>Full Stack Developer | Building scalable &amp; modern web applications</b></p>
+<h1 align="center">Hi there, I'm Dannuy</h1>
+<p align="center"><b>Frontend Developer | Building scalable &amp; modern web designs</b></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Full+Stack+Developer;Frontend+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tech Stack &amp; Tools
+##  Tech Stack &amp; Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,git,github,vscode" alt="Tech Stack" />
@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReeZquiuT&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
